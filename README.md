@@ -22,3 +22,13 @@
   <a href="https://github.com/MR414N-ID"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://www.youtube.com/channel/UC7HPxwU0ejE38lNgBrvf8Vg"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Dilihat" />
+    
+    
+    
+    
+TUTOR PAKAI 
+    - git clone https://github.com/MR414N-ID/sakti/edit/master/README.md
+    - cd sakti
+    - bash install.sh
+    - pip install -r requirments.txt 
+    - python3 sakti.py
