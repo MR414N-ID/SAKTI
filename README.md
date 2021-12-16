@@ -27,8 +27,8 @@
     
     
 TUTOR PAKAI 
-    - git clone https://github.com/MR414N-ID/sakti/edit/master/README.md
-    - cd sakti
-    - bash install.sh
-    - pip install -r requirments.txt 
-    - python3 sakti.py
+- git clone https://github.com/MR414N-ID/sakti/edit/master/README.md
+- cd sakti
+- bash install.sh
+- pip install -r requirments.txt 
+-python3 sakti.py
