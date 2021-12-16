@@ -1,4 +1,4 @@
-# webdef
+# sakti
 <h1 align="center">
   <br>
   <h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm MR.414N 😇 </h1>
@@ -26,9 +26,18 @@
     
     
     
-TUTOR PAKAI 
+# TUTOR PAKAI 
 - git clone https://github.com/MR414N-ID/sakti/edit/master/README.md
 - cd sakti
 - bash install.sh
 - pip install -r requirments.txt 
 -python3 sakti.py
+
+    
+    
+    
+    
+# FITUR
+- SADAP KAMERA
+- LACAK LOKASI
+- SADAP MIC
